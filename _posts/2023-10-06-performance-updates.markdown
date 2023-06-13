@@ -6,8 +6,6 @@ categories: product update
 description: "Our main focus this month has been improving the performance of the app. The biggest update is instant saving."
 ---
 
-We're back with another monthly update! 
-
 Our main focus this month has been improving the performance of the app. The biggest update is instant saving.
 
 ## Server upgrades
