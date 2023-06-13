@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;600;700;800&display=swap');
+
+$sans: 'Inter', sans-serif;
+
+
+// Define defaults for each variable.
+
+$base-font-family: $sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #fff !default;
+$background-color: #121212 !default;
+$brand-color:      #55FD91 !default;
+
+$purple: #482A8A;
+$secondary: #FFAA5A;
+$terciary: #55FD91;
+
+$white: #ffffff;
+$dark: #121212;
+
+$grey-color:       #fff !default;
+$grey-color-light: rgba(255,255,255, 0.1) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/header",
+  "minima/syntax-highlighting"
+;
