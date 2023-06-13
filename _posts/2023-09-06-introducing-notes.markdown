@@ -5,7 +5,6 @@ date:   2022-09-06 10:29:59 +0200
 categories: product update
 description: "Introducing notes! Just like with bookmarks, Mindi AI will analyze your notes and tag them so you can easily find them later."
 ---
-# Introducing notes
 
 As always, we've got updates that you've been asking for - and we're super excited to bring them to you this month.
 

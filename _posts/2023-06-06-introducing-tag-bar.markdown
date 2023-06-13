@@ -5,7 +5,6 @@ date:   2022-06-06 10:29:59 +0200
 categories: product update
 description: "We've made it easier for you to explore things you save to Mindi. By simply clicking through images, articles, tweets, and websites, you will re-discover important items you've saved to Mindi."
 ---
-# Introducing the tag bar
 
 Thanks for being part of [Mindi](https://mindi.ai/) while we're in early access. Here's a quick update on what's new and what we've been working on recently.
 

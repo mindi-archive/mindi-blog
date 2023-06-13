@@ -5,7 +5,6 @@ date:   2022-10-06 10:29:59 +0200
 categories: product update
 description: "Our main focus this month has been improving the performance of the app. The biggest update is instant saving."
 ---
-# Performance updates
 
 We're back with another monthly update! 
 
