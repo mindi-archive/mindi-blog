@@ -31,6 +31,9 @@ github_username: mindi-ai
 plugins:
   - jekyll-feed
 
+include:
+  - CNAME
+
 permalink: /:title/
 
 # Exclude from processing.
