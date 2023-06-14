@@ -54,6 +54,7 @@ We're working on some exciting new stuff. One of them is letting you see all the
 
 If you'd like to see a feature or have feedback, email us at [support@mindi.ai](mailto:support@mindi.ai) or reply to this email.
 
+
 Speak soon,
 
 [Filip](https://twitter.com/@filipistyping) from Mindi

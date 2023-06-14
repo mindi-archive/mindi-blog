@@ -23,6 +23,7 @@ We made it super easy for you to invite friends. Simply enter their email addres
 
 If you're missing a feature or got any questions, reach us at [support@mindi.ai,](mailto:support@mindi.ai,) or just reply to this email. 
 
+
 Speak soon,
 
 [Filip](https://twitter.com/@filipistyping) from Mindi

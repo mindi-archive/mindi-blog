@@ -35,6 +35,7 @@ We're happy to announce that our extension now works on Safari too. You can get 
 
 That's all for now, stay tuned for more. For feature requests or feedback, please reach out to [support@mindi.ai.](mailto:support@mindi.ai.)
 
+
 Speak soon,
 
 [Filip](https://twitter.com/@filipistyping) from Mindi

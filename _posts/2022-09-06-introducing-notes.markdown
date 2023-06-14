@@ -37,6 +37,7 @@ Join our Discord channel to share ideas, report bugs, and send feedback.
 
 That's all for now, stay tuned for more. For feature requests or feedback, please reach out to [support@mindi.ai.](mailto:support@mindi.ai.)
 
+
 Speak soon,
 
 [Filip](https://twitter.com/@filipistyping) from Mindi
