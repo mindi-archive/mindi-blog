@@ -6,8 +6,6 @@ categories: product update
 description: "Behind-the-scenes improvements that will benefit the product in the long run. Taking this time to enhance the core of our product will enable us to move faster in the future."
 ---
 
-# Essential product updates
-
 You may have noticed that we've been less active over the past few months, with fewer major feature releases. Sometimes in software development, it's necessary to pause and focus on ensuring the product is ready for scaling and growth. 
 
 As a result, we've been working on many behind-the-scenes improvements that will benefit the product in the long run.
